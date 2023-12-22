@@ -1,0 +1,5 @@
+stack
+queue
+push
+pop
+array
